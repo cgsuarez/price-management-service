@@ -58,8 +58,8 @@ docker run -p 8080:8080 price-management-service
 
 ## Running the Server
 
-1.  Clone the repository: `git clone [repository URL]`
-2.  Navigate to the project directory: `cd [project directory]`
+1.  Clone the repository: `git clone https://github.com/cgsuarez/price-management-service`
+2.  Navigate to the project directory: `cd price-management-service`
 3.  Build the application: `mvn clean install`
 4.  Run the application: `mvn spring-boot:run`
 
